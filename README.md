@@ -6,12 +6,12 @@ This is a library for react-switch-button with a lot of customization
 
 #How to install it?
 
-`npm install react-switch-button --save`
+`npm install react-button-switch --save`
 
 #How to use it?
 
 ```
-import Switch from "react-switch-button";
+import Switch from "react-button-switch";
 
 const [change,setchange] = useState(false);
 

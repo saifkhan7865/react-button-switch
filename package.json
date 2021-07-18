@@ -1,0 +1,35 @@
+{
+  "name": "react-button-switch",
+  "version": "0.0.1",
+  "description": "This is a react library for a switch button",
+  "main": "Switch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saifkhan7865/react-switch-button.git"
+  },
+  "keywords": [
+    "react-switch",
+    "react-button",
+    "switch",
+    "switch-button",
+    "react-button-switch",
+    "button-switch",
+    "button",
+    "switch button",
+    "button switch",
+    "toggle-switch",
+    "react-toggle-switch",
+    "react-switch-button",
+    "react-button-switch",
+    "button-switch-react"
+  ],
+  "author": "Mohammed Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saifkhan7865/react-button-switch/issues"
+  },
+  "homepage": "https://github.com/saifkhan7865/react-button-switch#readme"
+}
