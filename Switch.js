@@ -1,5 +1,6 @@
+import react from "react"
 import "./newstyles.css";
-import react from 'react'
+
 function Switch(props) {
   const {
     ballclass,
