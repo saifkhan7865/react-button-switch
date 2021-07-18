@@ -1,6 +1,6 @@
 {
   "name": "react-button-switch",
-  "version": "0.0.2",
+  "version": "0.2.3",
   "description": "This is a react library for a switch button",
   "main": "Switch.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saifkhan7865/react-switch-button.git"
+    "url": "git+https://github.com/saifkhan7865/react-button-switch.git"
   },
   "keywords": [
     "react-switch",
