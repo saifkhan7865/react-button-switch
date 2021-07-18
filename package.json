@@ -1,6 +1,6 @@
 {
   "name": "react-button-switch",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This is a react library for a switch button",
   "main": "Switch.js",
   "scripts": {
