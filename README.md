@@ -1,8 +1,8 @@
 #What is this?
 
 This is a library for react-switch-button with a lot of customization
-
 #how does it look like?
+
 ![Screenshot1](https://res.cloudinary.com/dzn1kqjmo/image/upload/v1626600670/switchNpmPackage_qvgdo5.png)
 
 #How to install it?
@@ -15,6 +15,7 @@ This is a library for react-switch-button with a lot of customization
 import Switch from "react-switch-button";
 
 const [change,setchange] = useState(false);
+
 
 //inside the function component
 
