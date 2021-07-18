@@ -1,6 +1,8 @@
-import react from "react"
-import "./newstyles.css";
+import React from "react";
+// import React, { PureComponent } from 'react'
 
+import { useState } from "react";
+import "./newstyles.css";
 function Switch(props) {
   const {
     ballclass,
